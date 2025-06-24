@@ -1,5 +1,6 @@
 # Downtime
 *A small tool written in C to replace the uptime command of Linux with a French format.*
+
 Un petit outil écrit en C pour remplacer la commande uptime de Linux avec un format français.
 
 ## Installation
