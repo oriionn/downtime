@@ -63,7 +63,7 @@ int main(int argc, char *argv[]) {
         i++;
     }
 
-    for (int j = 0; j < 4; j++) {
+    for (int j = 0; j < i; j++) {
         if (strlen(content[j]) == 0) continue;
 
         if ((i - 1) == j) strcat(totalContent, " et ");
